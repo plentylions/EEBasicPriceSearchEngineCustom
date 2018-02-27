@@ -1,0 +1,25 @@
+{
+  "name": "EEBasicPriceSearchEngineCustom",
+  "description": "This plugin adds the format BasicPriceSearchEngine to the Elastic Export.",
+  "namespace": "EEBasicPriceSearchEngineCustom",
+  "author": "Plenty Lions GmbH",
+  "type": "export",
+  "authorIcon": "icon_author_xs.png",
+  "serviceProvider": "EEBasicPriceSearchEngineCustom\\EEBasicPriceSearchEngineCustomServiceProvider",
+  "license": "GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007",
+  "pluginIcon": "icon_plugin_xs.png",
+  "authorIcon": "icon_author_xs.png",
+  "email":   "info@plentylions.de",
+  "price": 0.00,
+  "shortDescription": {
+    "de": "Das Plugin Basic Price Search Engine fügt das Datenformat BasicPriceSearchEngine zum Elastischen Export hinzu.",
+    "en": "This plugin adds the format BasicPriceSearchEngine to the Elastic Export."
+  },
+  "categories": ["3523"],
+  "version": "0.0.1",
+  "require": ["ElasticExport"],
+  "marketplaceName": {
+    "de": "Basic Price Search Engine",
+    "en": "Basic Price Search Engine"
+  }
+}
